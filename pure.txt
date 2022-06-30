@@ -1,5 +1,8 @@
-TEST-1 - Add FB Social Dashboard parameter records.up.sql
-TEST-2 - Add FB Page Social Dashboard service record and adding relevant parameters_services fields.up.sql
-TEST-3 - Add FB Page Album Social Dashboard service record and adding relevant parameters_services fields.up.sql
-TEST-4 - Add FB Post Social Dashboard service record and adding relevant parameters_services fields.up.sql
-TEST-5 - Add FB Page Loader Social Dashboard service record and adding relevant parameters_services fields.up.sq
+DEL-237/Delete FB Ads profiles.yaml
+DEL-237/Remove FB Ads services.yaml
+DEL-249/Fix stripe_customers ID column.yaml
+DEL-249/Fix users.card_billing_repeat_auth column.yaml
+DEL-249/Fix stripe_events ID column.yaml
+DEL-249/Fix stripe_webhooks ID column.yaml
+DEL-249/Update stripe_id column of country_taxes table.yaml
+DEL-249/Update stripe_invoice_id column of subscription_modifications table.yaml
