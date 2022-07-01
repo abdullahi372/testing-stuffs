@@ -8,9 +8,3 @@ DEL-249/Update stripe_id column of country_taxes table.yaml
 DEL-249/Update stripe_invoice_id column of subscription_modifications table.yaml
 DEL-310/Testing conflict resolver.yaml
 DEL-310/resolving conflicts.yaml
-DEL-310/hit between the eyes.yaml
-DEL-310/put it in the sky.yaml
-=======
-DEL-310/nveen slide.yaml
-DEL-310/LIL BABYYYYY.yaml
-DEL-310/Next change.yaml
