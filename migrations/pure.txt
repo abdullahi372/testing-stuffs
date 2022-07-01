@@ -11,3 +11,4 @@ DEL-310/resolving conflicts.yaml
 DEL-310/sober for an hour.yaml
 DEL-310/every box they try to put me in.yaml
 DEL-310/nveen slide.yaml
+DEL-310/changed.yaml
