@@ -1,9 +1,0 @@
-DEL-237/Delete FB Ads profiles.yaml
-DEL-237/Remove FB Ads services.yaml
-DEL-249/Fix stripe_customers ID column.yaml
-DEL-249/Fix users.card_billing_repeat_auth column.yaml
-DEL-249/Fix stripe_events ID column.yaml
-DEL-249/Fix stripe_webhooks ID column.yaml
-DEL-249/Update stripe_id column of country_taxes table.yaml
-DEL-249/Update stripe_invoice_id column of subscription_modifications table.yaml
-DEL-310/Testing conflict resolver.yaml
