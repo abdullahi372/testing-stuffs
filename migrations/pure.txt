@@ -10,3 +10,5 @@ DEL-310/Testing conflict resolver.yaml
 DEL-310/resolving conflicts.yaml
 DEL-310/money money money.yaml
 DEL-310/pain in my heart.yaml
+=======
+DEL-310/nveen slide.yaml
