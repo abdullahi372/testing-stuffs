@@ -6,7 +6,12 @@ DEL-249/Fix stripe_events ID column.yaml
 DEL-249/Fix stripe_webhooks ID column.yaml
 DEL-249/Update stripe_id column of country_taxes table.yaml
 DEL-249/Update stripe_invoice_id column of subscription_modifications table.yaml
+<<<<<<< HEAD
 test-2/otherthing.yaml
 some-3/thinge.yaml
 some-4/thingew.yaml
 some-469/thingew.yaml
+=======
+some-6666666/thingew.yaml
+some-tkshisn/thingew.yaml
+>>>>>>> origin/main
